@@ -1,4 +1,5 @@
 streamlit
-opencv-python-headles
+pillow
 numpy
 moviepy
+scikit-learn
